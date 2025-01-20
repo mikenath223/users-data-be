@@ -203,6 +203,14 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
+# Author
+-------------------------
+
+
+**Michgolden Ukeje**  [LinkedIn Profile](https://www.linkedin.com/in/michgoldenukeje/)  
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
